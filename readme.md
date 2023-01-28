@@ -20,5 +20,5 @@ Esse projeto teve como objetivo criar um site utilizando o conceito de mobile fi
 ## Visualize o projeto
   
   <ul>
-    <li><a href="https://feuchard.github.io/Culturama-2023/" target="_blank">Culturama - 2023</li>
+    <li><a href="https://feuchard.github.io/Alura-Books-2023/" target="_blank">Alura Books - 2023</li>
   </ul>
