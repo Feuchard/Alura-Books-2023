@@ -5,7 +5,7 @@ Esse projeto teve como objetivo criar um site utilizando o conceito de mobile fi
 <br>
 <br>
 <div>
-<img alt="imagem curso Responsividade com mobile-first" src="https://github.com/Feuchard/Alura-Books-2023/blob/main/img/html-css-responsividade-mobile-first.png">
+<img alt="imagem curso Responsividade com mobile-first" src="https://github.com/Feuchard/Alura-Books-2023/blob/main/assets/img/html-css-responsividade-mobile-first.png">
 <br>
 <br>
   <ul>
